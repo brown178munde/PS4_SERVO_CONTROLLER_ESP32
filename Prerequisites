@@ -1,0 +1,9 @@
+
+## 🚀 Getting Started
+1. Install required libraries via Arduino Library Manager
+2. Upload sketch to ESP32
+3. Pair PS4 controller
+4. Move joystick to control servo!
+
+## 📜 License
+MIT License
